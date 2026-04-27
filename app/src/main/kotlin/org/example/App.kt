@@ -22,4 +22,5 @@ fun main() {
     complejo.ponerValor(3,4)
     println(complejo.mostrar())
     println("hola")
+    println("hola2 ")
 }
