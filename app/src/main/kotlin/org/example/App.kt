@@ -67,5 +67,4 @@ class Complejo(private var real:Double=0.0,private var imaginario:Double=0.0){
         c2.ponerValor(3.0,6.0)
         c3=complejo.dividir(c2)
         c3.mostrar()
-        print("hola")
     }
